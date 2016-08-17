@@ -8,6 +8,7 @@
 <PassionNone>なし （経験値 x{0}）</PassionNone>
 <PassionMinor>関心 （経験値 x{0}）</PassionMinor>
 <PassionMajor>熱心 （経験値 x{0}）</PassionMajor>
+<LearnedMaxToday>今日の限界まで身に付いた ({0}/{1}, さらに習得する場合、経験値 {2}倍)</LearnedMaxToday>
 <EffectsAtLevel>{0} レベルの 効果</EffectsAtLevel>
 <SkillMax>最大</SkillMax>
 
